@@ -1,0 +1,9 @@
+﻿git add .
+
+git commit -m "WRITE WHAT YOU CHANGE"
+
+git remote add origin https://github.com/mahmad2005/Diming-or-Speed Control-using-Zero-Cross-Detection-technique-for-AC-Line.git
+
+
+git push -u origin master
+
